@@ -6,4 +6,4 @@ on various machines, that aren't currently managed by Salt (or another
 automation system).
 
 .. image:: https://github.com/mirceaulinic/salt-bae/blob/master/static/logo.png
-  :width: 400
+   :width: 400
